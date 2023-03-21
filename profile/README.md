@@ -1,12 +1,7 @@
-## Hi there 👋
+# ΦX174 Org
 
-<!--
+![PhiX174](https://user-images.githubusercontent.com/68709/226614588-38fd58a4-2423-42f9-8277-c1fe6c0ad932.jpg)
 
-**Here are some ideas to get you started:**
+see https://en.wikipedia.org/wiki/Phi_X_174, is a bacteria, the first genome to be DNA sequenced in 1977
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The org is being used to experiment with Adobe AEM Next Gen, aka Franklin previously known as Project Helix.
